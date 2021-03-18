@@ -5,4 +5,4 @@ hozzáadok még egy sort
 írom tovább 
 ezt már githubon írtam
 müködik
-müködj
+müköd
