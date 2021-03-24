@@ -7,4 +7,5 @@ ezt már githubon írtam
 müködik
 müköd
 müködj kérlek
+desktop
 
